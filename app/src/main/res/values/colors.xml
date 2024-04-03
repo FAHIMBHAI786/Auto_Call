@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#1C2A33</color>
+    <color name="logInTextInputBorder">#363E4B</color>
+    <color name="login_blue">#0064DF</color>
+</resources>
